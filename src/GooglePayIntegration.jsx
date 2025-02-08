@@ -44,11 +44,11 @@ function onBuyClicked() {
           pa: "dipeshsharma938@ibl", // Verify this UPI ID
           pn: "Koncept Software Solutions",
           tr: "1234ABCD", 
-          url: "https://url/of/the/order/in/your/website",
-          mc: "0000", // Change this to "0000" for testing
+          url: "https://reactgpay.vercel.app/",
+          mc: "5045", // Change this to "0000" for testing
           tn: "Purchase in Merchant",
         },
-      },
+    },
   ];
 
   const details = {
