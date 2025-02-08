@@ -3,7 +3,7 @@ import React from "react";
 const GooglePayIntegration = () => {
   return (
     <div>
-      <button onClick={onBuyClicked}>Click Me</button>
+      <button onClick={onBuyClicked}>Click Meee</button>
     </div>
   );
 };
